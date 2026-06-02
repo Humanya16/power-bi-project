@@ -24,7 +24,7 @@ Developed an interactive Project Management Dashboard in Power BI to monitor pro
 - Average Duration
 
 ## Dashboard Preview
-![power bi project](dashboard.png)
+![power bi project](dashboard_screenshot.png)
 
 
 ## Dataset
